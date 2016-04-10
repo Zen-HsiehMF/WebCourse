@@ -1,0 +1,88 @@
+.wrap{
+	width: 800px;
+	height: 600px;
+}
+.header{
+	height: 100px;
+	margin-bottom: 20px;
+}
+.content{
+	width: 550px;
+	height: 200px;
+	margin-right: 10px;
+	float: left;
+}
+.main{
+	width: 240px;
+	height: 200px;
+	float: right;
+}
+.main li{
+	list-style-type: none;
+	height: 170px;
+}
+.main p{
+	text-align: center;
+	font-family: FangSong;
+	font-weight: bold;
+	font-size: 14px;
+}
+.clear{
+	clear:both;
+}
+.footer{
+	height: 250px;
+}
+.header li{
+  float: left;
+  width: 90px;
+  text-align: center;
+  list-style-type: none;
+  margin-bottom: 10px;
+}
+.header a{
+	color: black;
+	font-size: 10px;
+	font-style: italic;
+	font-weight: bold;
+	text-decoration: none;
+}
+.header img{
+	float: left;
+	margin-left: 5px;
+  	margin-right: 30px;
+  	padding-left: 5px;
+}
+.footer li{
+	float: left;
+	padding-top: 5px;
+	padding-left: 10px;
+  	margin-left: 10px;
+  	margin-right: 20px;
+  	width: 210px;
+  	list-style-type: none;
+  	background-color: #EFF8FB; 
+  	border-radius: 15px;
+}
+.footer h1{
+	font-family: FangSong;
+	font-size: 20px;
+	text-decoration: none;
+	font-weight: bold;
+	text-align: center;
+	color: rgb(128,128,128);
+}
+.footer img{
+	padding-left: 15px;
+}
+p{
+	font-family: 標楷體;
+	font-size: 14px;
+	color: rgb(128,128,128);
+}
+h1{
+	font-family: FangSong;
+	font-size: 24px;
+	color: #5858FA;
+	text-decoration: underline;
+}
